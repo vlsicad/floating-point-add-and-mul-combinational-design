@@ -1,0 +1,45 @@
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.1 (win64) Build 1846317 Fri Apr 14 18:55:03 MDT 2017
+| Date         : Wed Aug 19 18:38:17 2020
+| Host         : DESKTOP-NSQAU1P running 64-bit major release  (build 9200)
+| Command      : report_methodology -file fpadd_1_methodology_drc_routed.rpt -rpx fpadd_1_methodology_drc_routed.rpx
+| Design       : fpadd_1
+| Device       : xc7k410tiffg900-2L
+| Speed File   : -2L
+| Design State : Routed
+---------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max violations: <unlimited>
+             Violations found: 2
++----------+----------+--------------------------+------------+
+| Rule     | Severity | Description              | Violations |
++----------+----------+--------------------------+------------+
+| SYNTH-13 | Warning  | combinational multiplier | 2          |
++----------+----------+--------------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+SYNTH-13#1 Warning
+combinational multiplier  
+Detected combinational multiplier in DSP instance arg.
+Related violations: <none>
+
+SYNTH-13#2 Warning
+combinational multiplier  
+Detected combinational multiplier in DSP instance arg__0.
+Related violations: <none>
+
+

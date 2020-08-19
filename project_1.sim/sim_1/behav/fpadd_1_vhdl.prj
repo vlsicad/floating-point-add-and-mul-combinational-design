@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl ieee_proposed  "../../../project_1.srcs/sources_1/imports/ieee_proposed/fixed_float_types_c.vhdl"
+vhdl ieee_proposed  "../../../project_1.srcs/sources_1/imports/ieee_proposed/fixed_pkg_c.vhdl"
+vhdl ieee_proposed  "../../../project_1.srcs/sources_1/imports/ieee_proposed/float_pkg_c.vhdl"
+vhdl xil_defaultlib  "../../../project_1.srcs/sources_1/imports/tfp1/fpadd_1.vhd"
+
+# Do not sort compile order
+nosort

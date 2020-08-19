@@ -1,0 +1,5 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/newpprsdn/linkden_proj/tfp1/project_1/project_1.srcs/sources_1/imports/ieee_proposed/fixed_float_types_c.vhdl" into library ieee_proposed
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/newpprsdn/linkden_proj/tfp1/project_1/project_1.srcs/sources_1/imports/ieee_proposed/fixed_pkg_c.vhdl" into library ieee_proposed
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/newpprsdn/linkden_proj/tfp1/project_1/project_1.srcs/sources_1/imports/ieee_proposed/float_pkg_c.vhdl" into library ieee_proposed
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/newpprsdn/linkden_proj/tfp1/project_1/project_1.srcs/sources_1/imports/tfp1/fpadd_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity fpadd_1

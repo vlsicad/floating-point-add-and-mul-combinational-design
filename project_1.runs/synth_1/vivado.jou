@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Wed Aug 19 18:36:08 2020
+# Process ID: 6788
+# Current directory: D:/newpprsdn/linkden_proj/tfp1/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log fpadd_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fpadd_1.tcl
+# Log file: D:/newpprsdn/linkden_proj/tfp1/project_1/project_1.runs/synth_1/fpadd_1.vds
+# Journal file: D:/newpprsdn/linkden_proj/tfp1/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source fpadd_1.tcl -notrace
